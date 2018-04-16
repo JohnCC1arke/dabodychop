@@ -1,0 +1,47 @@
+.container {
+  background-color: black;
+}
+.pad-20 {
+  padding: 50px;
+}
+.border{
+  border: inset;
+}
+.red{
+  background-color: red;
+  height: 300px;
+}
+.blue {
+  background-color: blue;
+  height: 100px;
+}
+.maroon {
+  background-color: maroon;
+  height: 300px;
+}
+.magenta {
+  background-color: magenta;
+  height: 30px;
+}
+.orange {
+  background-color: orange;
+  height: 150px;
+}
+.cyan {
+  background-color: cyan;
+  height: 150px;
+}
+.olive {
+  background-color: olive;
+  height: 150px;
+}
+.lime {
+  background-color: lime;
+  height: 50px;
+}
+.robot{
+  float: left;
+  border: inset;
+  height: 250px;
+  width: 690px;
+}
